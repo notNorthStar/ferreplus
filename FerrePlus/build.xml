@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Ferre+ - Proyecto Integrador de Programacion
+    Equipo 3: Sosa Fernandez Luis David / Gutierrez Colorado Oliver
+
+    Para abrir en NetBeans: Open Project -> apuntar a la carpeta FerrePlus.
+    NetBeans regenerara nbproject/build-impl.xml la primera vez.
+-->
+<project name="FerrePlus" default="default" basedir=".">
+    <description>Builds, tests, and runs the project FerrePlus.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
